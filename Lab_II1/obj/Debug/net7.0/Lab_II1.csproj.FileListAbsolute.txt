@@ -1,0 +1,15 @@
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\bin\Debug\net7.0\Lab_II1.exe
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\bin\Debug\net7.0\Lab_II1.deps.json
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\bin\Debug\net7.0\Lab_II1.runtimeconfig.json
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\bin\Debug\net7.0\Lab_II1.dll
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\bin\Debug\net7.0\Lab_II1.pdb
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.csproj.AssemblyReference.cache
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.AssemblyInfoInputs.cache
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.AssemblyInfo.cs
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.csproj.CoreCompileInputs.cache
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.dll
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\refint\Lab_II1.dll
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.pdb
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\Lab_II1.genruntimeconfig.cache
+C:\Users\carvo\Documents\C#\Labs\Labs_II\Lab_II1\obj\Debug\net7.0\ref\Lab_II1.dll
